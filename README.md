@@ -21,9 +21,9 @@ As of April 1, 2017, Microsoft awarded me the title of Microsoft MVP - Visual St
 </div>
 
 <p align="center">
-    <img src="https://github.com/chrisprolls/chrisprolls/blob/main/assets/azure-developer.png" alt="Book" height="100" />
-    <img src="https://github.com/chrisprolls/chrisprolls/blob/main/assets/azure-architect-png" alt="MVP" height="100"/>
-    <img src="https://github.com/chrisprolls/chrisprolls/blob/main/assets/azure-devops-png" alt="MVP" height="100"/>
+    <img src="https://github.com/chrisprolls/chrisprolls/blob/main/assets/azure-developer.png" alt="Azure Developer" height="100" />
+    <img src="https://github.com/chrisprolls/chrisprolls/blob/main/assets/azure-architect.png" alt="Azure Architect" height="100"/>
+    <img src="https://github.com/chrisprolls/chrisprolls/blob/main/assets/azure-devops.png" alt="Azure DevOps" height="100"/>
 </div>
 
 ### Talking about Personal Stuffs:
