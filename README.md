@@ -15,6 +15,9 @@ Curiosity and technical expertise are facets of my job that I really like 💡. 
 
 As of April 1, 2017, Microsoft awarded me the title of Microsoft MVP - Visual Studio and Development Technologies 🔥. It is a great honor for me to be part of this big family, so important to me is the community aspect and the sharing of knowledge ✨.
 
+<img align="center" src="https://github.com/chrisprolls/chrisprolls/blob/master/assets/aspnet-core-book.png" alt="Book" height="30" width="30" />
+<img align="center" src="https://github.com/chrisprolls/chrisprolls/blob/master/assets/mvp.png" alt="MVP" height="30" width="30" />
+
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with ASP.NET Core, .NET 5, Azure, Angular, VueJS, Redux etc.
