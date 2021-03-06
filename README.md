@@ -23,6 +23,7 @@ As of April 1, 2017, Microsoft awarded me the title of Microsoft MVP - Visual St
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - ⚽ &nbsp; Soccer lover
 - 📝 &nbsp; Checkout my [Website](https://christophe.gigax.fr/) - available in FR.
+- 📚 &nbsp; Go see my ASP.NET Core [book](https://www.editions-eni.fr/livre/asp-net-core-mvc-maitrisez-ce-framework-web-puissant-ouvert-et-multiplateforme-nouvelle-edition-9782409018657) I wrote
 
 ### My Absolute Favorites:
 
