@@ -20,6 +20,12 @@ As of April 1, 2017, Microsoft awarded me the title of Microsoft MVP - Visual St
     <img src="https://github.com/chrisprolls/chrisprolls/blob/main/assets/mvp.jpg" alt="MVP" height="100"/>
 </div>
 
+<p align="center">
+    <img src="https://github.com/chrisprolls/chrisprolls/blob/main/assets/azure-developer.png" alt="Book" height="100" />
+    <img src="https://github.com/chrisprolls/chrisprolls/blob/main/assets/azure-architect-png" alt="MVP" height="100"/>
+    <img src="https://github.com/chrisprolls/chrisprolls/blob/main/assets/azure-devops-png" alt="MVP" height="100"/>
+</div>
+
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with ASP.NET Core, .NET 5, Azure, Angular, VueJS, Redux etc.
