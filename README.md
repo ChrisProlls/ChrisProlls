@@ -7,7 +7,7 @@
 ### Welcome to my profile!
 
 
-Passionate about IT for several years now, I decided to do more than just a hobby: my job. After a 5-year course at Exia.cesi in Strasbourg 🏢 allowing me to access a diploma in Information Systems Manager 🎓, I am now a Software Architect within the company Versusmind, digital architecture firm & innovative software editor in Strasbourg.
+Passionate about IT for several years now, I decided to do more than just a hobby: my job. After a 5-year course at Exia.cesi in Strasbourg 🏢 allowing me to access a diploma in Information Systems Manager 🎓, I am now a Cloud Engineer within the company Codit, IoT & Azure Cloud specialist in Europe.
 
 This privileged working environment allows me to apply my analysis knowledge, design and development skills in Microsoft technologies for which I have a great preference. The Cloud ☁️, Web 🌐 and Mobile 📱 development are subjects that I particularly appreciate (ASP.NET Core, Angular, Azure, VueJS, REST API & GraphQL, PWA ...), but I also try to stay in touch with cutting-edge technologies (IoT , Blockchain, Serverless, virtual / augmented reality ...) and to constantly update myself on the latest development techniques 🚀.
 
@@ -35,6 +35,7 @@ As of April 1, 2017, Microsoft awarded me the title of Microsoft MVP - Visual St
 - ⚽ &nbsp; Soccer lover
 - 📝 &nbsp; Checkout my [Website](https://christophe.gigax.fr/) - available in FR.
 - 📚 &nbsp; Go see my ASP.NET Core [book](https://www.editions-eni.fr/livre/asp-net-core-mvc-maitrisez-ce-framework-web-puissant-ouvert-et-multiplateforme-nouvelle-edition-9782409018657) I wrote
+- 👨‍🎓 &nbsp; Need to learn about .NET and Azure ? Go visit my [instructor page](https://www.linkedin.com/learning/instructors/christophe-gigax) at LinkedIn Learning 
 
 My favorite quote
 > Learning coding has stunning cognitive-related benefits, such as problem-solving, computational thinking, analytical thinking, creative thinking, leadership-related skills, and even teamwork.
