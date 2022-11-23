@@ -7,7 +7,7 @@
 ### Welcome to my profile!
 
 
-Passionate about IT for several years now, I decided to do more than just a hobby: my job. After a 5-year course at Exia.cesi in Strasbourg 🏢 allowing me to access a diploma in Information Systems Manager 🎓, I am now a Cloud Engineer within the company Codit, IoT & Azure Cloud specialist in Europe.
+Passionate about IT for several years now, I decided to do more than just a hobby: my job. After a 5-year course at Exia.cesi in Strasbourg 🏢 allowing me to access a diploma in Information Systems Manager 🎓, I am now a Cloud Solution Achitect within the company Hager Group specialized in Electrical hardware, Domotics and Protection equipment in Europe.
 
 This privileged working environment allows me to apply my analysis knowledge, design and development skills in Microsoft technologies for which I have a great preference. The Cloud ☁️, Web 🌐 and Mobile 📱 development are subjects that I particularly appreciate (ASP.NET Core, Angular, Azure, VueJS, REST API & GraphQL, PWA ...), but I also try to stay in touch with cutting-edge technologies (IoT , Blockchain, Serverless, virtual / augmented reality ...) and to constantly update myself on the latest development techniques 🚀.
 
